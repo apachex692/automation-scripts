@@ -1,0 +1,3 @@
+[submodule "github"]
+	path = github
+	url = git@github.com:sakthisanthosh010303/github-automations.git
